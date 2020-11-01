@@ -1,5 +1,5 @@
 // Basic Forms
-// http://localhost:3000/isolated/exercise/06.js
+// http://localhost:3000/isolated/exercise/06.js blackpink
 
 import * as React from 'react'
 
